@@ -122,6 +122,7 @@
 		"vitest": "4.1.6"
 	},
 	"patchedDependencies": {
-		"ghostty-web@0.4.0": "patches/ghostty-web@0.4.0.patch"
+		"ghostty-web@0.4.0": "patches/ghostty-web@0.4.0.patch",
+		"electrobun@1.18.1": "patches/electrobun@1.18.1.patch"
 	}
 }
